@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "izBIhtD+hsTTycPJb4xmA+s2Ant3MFtXFPan34olBAmfvnaNtIUUyWZHyyhkbX2GjZQ7GmRYXAMeWP7eowKCeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayoobi\\source\\repos\\TopLearn\\TopLearn.Web\\TopLearn.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayoobi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
